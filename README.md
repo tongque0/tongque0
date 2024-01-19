@@ -1,6 +1,6 @@
-## <div align="center">Hi！👋 I‘m Chen JinTao!</div>
+## <div align="center">Hi! 👋 I'm Chen JinTao!</div>
 
-#### <div align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</div>
+#### <div align="center">A Full-Stack Engineer</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
@@ -22,29 +23,28 @@
 ##
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=richard-zhang1019&show_icons=true&icon_color=2E67D3&count_private=true" />
 
-### My status
-- 🧑‍🎓 Student，class of 2023
-- 💼 Location Shanghai
-- ✉️ aaaayu1019@gmail.com
+### My Status
+- 🧑‍🎓 Student, class of 2026
+- 💼 Location: Liaoning, China
+- ✉️ Email: tongque00@gmail.com
 
 ###
 <img align="right" src="https://streak-stats.demolab.com/?user=richard-zhang1019" />
 
-### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 👨‍💻
-- Basis：HTML CSS JavaScript ES6+ Typescript
-- Framework：React Vue
-- Efficiency：Taiwind less Ant-design AntV chakra-ui
-- Engineering：Webpack Vite npm yarn pnpm
-- Server：Express Koa
-- Team：Git Github
-- Tools：VSCode Typora
+### My Tech Stack 👨‍💻
+- Basics: HTML, CSS, JavaScript, ES6+, TypeScript
+- Frameworks:  Vue,React
+- Engineering: Webpack, Vite, npm, yarn, pnpm
+- Server: Express,  Golang
+- Team: Git, Github
+- Tools: VSCode, Typora
 
 ###
 <!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=richard-zhang1019&theme=react" /> -->
 
 ## Achievement
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=richard-zhang1019)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tongque0)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **richard-zhang1019/richard-zhang1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
