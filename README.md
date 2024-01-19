@@ -21,7 +21,7 @@
 #### <div align="center">![](https://komarev.com/ghpvc/?username=richard-zhang1019&label=views-count)</div>
 
 ##
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=richard-zhang1019&show_icons=true&icon_color=2E67D3&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tongque0&show_icons=true&icon_color=2E67D3&count_private=true" />
 
 ### My Status
 - 🧑‍🎓 Student, class of 2026
@@ -29,7 +29,7 @@
 - ✉️ Email: tongque00@gmail.com
 
 ###
-<img align="right" src="https://streak-stats.demolab.com/?user=richard-zhang1019" />
+<img align="right" src="https://streak-stats.demolab.com/?user=tongque0" />
 
 ### My Tech Stack 👨‍💻
 - Basics: HTML, CSS, JavaScript, ES6+, TypeScript
