@@ -1,5 +1,5 @@
 ## <div align="center">Hi! 👋 I'm Chen JinTao!</div>
-
+##### <div align="center">Liaoning, China</div>
 #### <div align="center">A Full-Stack Engineer</div>
 
 <div align="center">
@@ -26,38 +26,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tongque0&layout=compact&hide_border=true&langs_count=10" alt="JustSong's Top Langs" width="37%" /> 
 </p>
 
-<a href="https://github.com/songquanpeng/stats-cards">
-  
-### My Status
-- 🧑‍🎓 Student, class of 2026
-- 💼 Location: Liaoning, China
-- ✉️ Email: tongque00@gamil.com
 
-###
-<img align="right" src="https://streak-stats.demolab.com/?user=tongque0" />
 
-### My Tech Stack 👨‍💻
-- Basics: HTML, CSS, JavaScript, ES6+, TypeScript
-- Frameworks: Vue, React
-- Engineering: Webpack, Vite, npm, yarn, pnpm
-- Server: Express, Golang
-- Team: Git, Github
-- Tools: VSCode, Typora
-
-###
-<!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=tongque0&theme=react" /> -->
-
-<!--
-**tongque0/tongque0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
