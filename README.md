@@ -27,7 +27,7 @@
 </p>
 
 <p>
-   <img src="https://stats.justsong.cn/api/leetcode?username=tongque&theme=light"   width="49%" >
+   <img src="https://stats.justsong.cn/api/leetcode?username=quanpeng&cn=true"   width="49%" >
    <img src="https://stats.justsong.cn/api/juejin?id=178569313532535" alt="tongque's Github Stats" width="49%" />
 </p>
 
