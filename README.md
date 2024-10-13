@@ -1,5 +1,5 @@
 ## <div align="center">Hi! 👋 I'm Chen JinTao!</div>
-##### <div align="center">Liaoning, China</div>
+##### <div align="center">ShanXi, China</div>
 #### <div align="center">A Full-Stack Engineer</div>
 
 <div align="center">
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-#### <div align="center"><a href="https://juejin.cn/user/178569313532535/posts" target="_blank">Personal Blog Website</a></div>
+#### <div align="center"><a href="https://tongque0.github.io/" target="_blank">Personal Blog Website</a></div>
 #### <div align="center">![](https://komarev.com/ghpvc/?username=tongque0&label=views-count)</div>
 
 ## Abstract
