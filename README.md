@@ -1,35 +1,45 @@
-## <div align="center">Hi! 👋 I'm Chen JinTao!</div>
-##### <div align="center">ShanXi, China</div>
-#### <div align="center">A Full-Stack Engineer</div>
+# About Me
+![Flat](https://komarev.com/ghpvc/?username=tongque0&style=flat-square)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
-  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
-</div>
+Hi! 👋 I'm Chen JinTao!
+- I'm a Grade Third student of USTL, pursuing a bachelor's degree.
+- I am now working at personal development, and I want to set up the ocybers-dev Organization to create the application what we love.If you have the same thought to create some cool apps, please considering to join us.
+- I have basic knowledge of **Go**(Commonly), **JavaScript**(Commonly),**Python**, **Rust**, **C/C++** and **C#**, and I am trying to learn about haskell.
+- I have basic knowledge of some mainstream systems, such as Redis, Mysql, RabbitMQ, ELK, K8S, etc.
+- I have basic knowledge of programing pattern, loving design the architecture of the system.
+- I know some frameworks, such as **Gin**, **Gozero**, **Express**  and **Kartos**.
+# Now
+- Trying to study hard.
+- [ocybers-dev](https://github.com/ocybers-dev): Trying to creating a tools for web security, which targeted at Fiddler Everywhere.
+# Interest
+- Architecture
+- Programe Developer
+- AI and Machine Learning
+- Web Security
+- Design a new programe language
+# Reach Me
+- tongque00@gmail.com：For connecting.
+- Blog: [同阙的个人博客](https://tongque.ocybers.com/)
+# State
 
-#### <div align="center"><a href="https://tongque0.github.io/" target="_blank">Personal Blog Website</a></div>
-#### <div align="center">![](https://komarev.com/ghpvc/?username=tongque0&label=views-count)</div>
+I love the community of open source and try to contribute.
 
-## Abstract
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tongque0&show_icons=true&hide_border=true" alt="JustSong's Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tongque0&layout=compact&hide_border=true&langs_count=10" alt="JustSong's Top Langs" width="37%" /> 
-</p>
+Some icons about the skills of mine and the tools that I am using:
+![icons](https://skillicons.dev/icons?i=go,docker,kubernetes,cmake,py,js,css,nodejs,react,vue,nextjs,electron,express,vite,webpack,vscode,rabbitmq,kafka,redis,mysql,nginx,cloudflare,prometheus,grafana,github,git,powershell)
 
-<p>
-   <img src="https://stats.justsong.cn/api/leetcode?username=tongque&cn=true"   width="49%" >
-   <img src="https://stats.justsong.cn/api/juejin?id=178569313532535" alt="tongque's Github Stats" width="49%" />
-</p>
-
-
-
+<br>
+<table>
+  <tr>
+    <th>
+      <img alt="tongque0's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tongque0&show_icons=true&theme=transparent&hide_border=true" align="center" />
+    </th>
+    <th>
+      <img alt="tongque0's Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tongque0&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=CMake" align="center" />
+    </th>
+  </tr>
+  <!-- <tr>
+    <td colspan=2>
+      <img alt="tongque0's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=tongque0&hide_border=true&layout=compact&theme=transparent&custom_title=WorkTimeThisWeek&range=last_7_days" align="center"/>
+    </td>
+  </tr> -->
+</table>
