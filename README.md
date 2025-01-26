@@ -4,10 +4,10 @@
 Hi! 👋 I'm Chen JinTao!
 - I'm a Grade Third student of USTL, pursuing a bachelor's degree.
 - I am now working at personal development, and I want to set up the ocybers-dev Organization to create the application what we love.If you have the same thought to create some cool apps, please considering to join us.
-- I have basic knowledge of **Go**(Commonly), **JavaScript**(Commonly),**Python**, **Rust**, **C/C++** and **C#**, and I am trying to learn about haskell.
+- I have basic knowledge of **Go**(Commonly), **JavaScript**(Commonly),**Python**, **Rust**, **C/C++** and **C#**.
 - I have basic knowledge of some mainstream systems, such as Redis, Mysql, RabbitMQ, ELK, K8S, etc.
 - I have basic knowledge of programing pattern, loving design the architecture of the system.
-- I know some frameworks, such as **Gin**, **Gozero**, **Express**  and **Kartos**.
+- I know some frameworks, such as **Gin**, **Gozero**, **Express**  and **Kratos**.
 # Now
 - Trying to study hard.
 - [ocybers-dev](https://github.com/ocybers-dev): Create an open source community that benefits the world.
