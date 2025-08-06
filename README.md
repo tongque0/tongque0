@@ -28,18 +28,5 @@ Some icons about the skills of mine and the tools that I am using:
 ![icons](https://skillicons.dev/icons?i=go,docker,kubernetes,cmake,py,js,css,nodejs,react,vue,nextjs,electron,express,vite,webpack,vscode,rabbitmq,kafka,redis,mysql,nginx,cloudflare,prometheus,grafana,github,git,powershell)
 
 <br>
-<table>
-  <tr>
-    <th>
-      <img alt="tongque0's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tongque0&show_icons=true&theme=transparent&hide_border=true" align="center" />
-    </th>
-    <th>
-      <img alt="tongque0's Top Langs" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tongque0&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=CMake" align="center" />
-    </th>
-  </tr>
-  <!-- <tr>
-    <td colspan=2>
-      <img alt="tongque0's Waka Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=tongque0&hide_border=true&layout=compact&theme=transparent&custom_title=WorkTimeThisWeek&range=last_7_days" align="center"/>
-    </td>
-  </tr> -->
-</table>
+
+
