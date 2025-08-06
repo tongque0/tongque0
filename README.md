@@ -32,7 +32,7 @@ Some icons about the skills of mine and the tools that I am using:
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tongque0&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tongque0&show_icons=true&hide_border=true&icon_color=00BFFF&title_color=1E90FF&text_color=4169E1&bg_color=00000000" />
       </td>
       <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tongque0&hide_title=true&hide_border=true&layout=compact&langs_count=6&title_color=ffa000&icon_color=fff&theme=graywhite" />
