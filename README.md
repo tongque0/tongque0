@@ -28,5 +28,16 @@ Some icons about the skills of mine and the tools that I am using:
 ![icons](https://skillicons.dev/icons?i=go,docker,kubernetes,cmake,py,js,css,nodejs,react,vue,nextjs,electron,express,vite,webpack,vscode,rabbitmq,kafka,redis,mysql,nginx,cloudflare,prometheus,grafana,github,git,powershell)
 
 <br>
-
+<a href="https://github.com/tongque0">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=tongque0&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
+      </td>
+      <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tongque0&hide_title=true&hide_border=true&layout=compact&langs_count=6&title_color=ffa000&icon_color=fff&theme=graywhite" />
+      </td>
+    </tr>
+  </table>
+</a>
 
